@@ -7,10 +7,15 @@ Fue desarrollado como trabajo práctico de la materia Procesamiento del habla.
 🚀 ¿Qué hace este proyecto?
 
 ✔️ Construye un chatbot capaz de responder preguntas sobre una app de oficios
+
 ✔️ Usa una base de Q&A creada manualmente
+
 ✔️ Implementa RAG para recuperar información relevante
+
 ✔️ Compara dos modelos de embeddings
+
 ✔️ Evalúa la calidad del chatbot con métricas de recuperación
+
 ✔️ Genera respuestas usando un modelo LLM de HuggingFace
 
 🧠 Arquitectura utilizada
@@ -91,8 +96,5 @@ La mejor combinación encontrada fue:
 🙌 Autor
 
 Nicole Desire Ferreyra — Ciencia de Datos e IA
-GitHub: nicole-d-ai
 
-los k chunks más relevantes recuperados
 
-un prompt instructivo para responder claro y corto
